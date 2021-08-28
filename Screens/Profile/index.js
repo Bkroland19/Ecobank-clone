@@ -75,7 +75,7 @@ export default function Profile() {
                 </View>
                 <Typography
                     fontSize={30}
-                    text="Uwem Israel"
+                    text="BUKENYA KIZZA ROLAND"
                     bold
                 />
             </View>
